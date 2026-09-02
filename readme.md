@@ -532,7 +532,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [wego](https://github.com/schachmat/wego)
 - [weather-cli](https://github.com/riyadhalnur/weather-cli)
 - [weathr](https://github.com/veirt/weathr) - ASCII animations.
-- [linecast](https://github.com/ashuttl/linecast) - Weather, tides, the sun, the moon, and maps, in your terminal.
+- [linecast](https://github.com/ashuttl/linecast) - Weather, tides, sun, moon, and maps.
 
 ### Browser Replacement
 
